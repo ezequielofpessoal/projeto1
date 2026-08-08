@@ -4,13 +4,13 @@ API RESTful para cadastro, leitura, atualização e remoção (CRUD) de usuário
 
 ---
 
-## 📌 Objetivo do Projeto
+## Objetivo do Projeto
 
 Esta API foi projetada para servir como camada de backend resiliente e escalável, garantindo a integridade dos dados trafegados entre a interface (front-end) e a base de dados. O sistema previne a corrupção de registros aplicando regras rígidas de validação de payload no cadastro e padroniza os envelopes de resposta em todos os endpoints.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Node.js** (v20+) - Ambiente de execução JavaScript no servidor
 - **Express.js** (v4.19+) - Framework web para construção das rotas e controladores HTTP
@@ -20,7 +20,7 @@ Esta API foi projetada para servir como camada de backend resiliente e escaláve
 
 ---
 
-## 🚀 Instruções para Execução Local
+## Instruções para Execução Local
 
 ### Pré-requisitos
 - **Node.js** e **npm** instalados na sua máquina.
