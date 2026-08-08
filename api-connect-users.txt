@@ -1,0 +1,10 @@
+api-connect-users/
+├── package.json
+└── src/
+    ├── server.js
+    ├── routes/
+    │   └── userRoutes.js
+    ├── controllers/
+    │   └── userController.js
+    └── models/
+        └── userModel.js
